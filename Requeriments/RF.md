@@ -34,3 +34,14 @@ EL sistema tendrá espacios para asignar una nota a cada temática registrada po
 3. **RF 3:** _Cálculo de Notas_ ->
 El sistema permitirá escoger al rol «Profesor» la forma en que se cálcula la nota y el sistema calculará de forma automática la nota definitiva de los usuarios con rol «Estudiante».
 
+4. **RF 4:** _Recomendaciones de mejora_ ->
+El sistema, con base en los resultados de las notas irá recomendando a cada uno de los roles las actividades que se deben reforzar para generar un plan de mejoramiento hacia el estudiante.
+
+5. **RF 5:** _Disputar calificaciones_ ->
+EL sistema le permitirá al rol «Estudiante» disputar las notas dadas por el rol «profesor» una vez que este los publica y tendrá un plazo de 3 días laborales para realizar este proceso y máximo 5 en ser validado y cerrado por el rol «Profesor».
+
+6. **RF 6:** _Registrar llamados de atención_ ->
+El sistema permitirá al rol «Profesor» generar llamados de atención hacia el rol «Estudiante» con base en los lineamientos de convivencia de la institución.
+---
+#### Pausado por investigación necesaria para encontrar delimitantes entre realciones entre roles
+---
